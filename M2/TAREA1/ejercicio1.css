@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    cursor: pointer;
+}
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+       
+}
+
+.amarillo{
+    background-color: yellow;
+
+}
+
+.verde{
+
+    background-color: green;
+}
+   
+.indigo{
+
+    background-color: indigo;
+}
